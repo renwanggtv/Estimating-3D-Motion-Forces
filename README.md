@@ -46,9 +46,9 @@ Make sure that Ceres can be found by CMake after `make install`.
    git clone --recursive https://github.com/zongmianli/Estimating-3D-Motion-Forces.git
    cd Estimating-3D-Motion-Forces
    ```
-2. Create a `conda` enviroment, using:
+2. Create a `conda` environment, using:
    ```terminal
-   conda env create -f enviroment.yml
+   conda env create -f environment.yml
    conda activate estmf
    ```
    Alternatively, you can try the following steps if `conda` is too slow:
